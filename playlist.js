@@ -1,7 +1,9 @@
 const playlist = [
-  "Exhilarating Lights",
-  "Space for Disco",
-  "Warm Heart, Cold Dinner",
-  "Sound of Voices",
-  "Tearful Paradise",
+  'Exhilarating Lights',
+  'Space for Disco',
+  'Warm Heart, Cold Dinner',
+  'Sound of Voices',
+  'Tearful Paradise',
 ];
+
+module.exports = playlist;
